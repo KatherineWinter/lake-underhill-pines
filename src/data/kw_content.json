@@ -1,0 +1,133 @@
+{
+  "tags": [
+    {
+      "id": "general",
+      "name": "General"
+    },
+    {
+      "id": "hoa",
+      "name": "Homeowners Association (HOA)"
+    },
+    {
+      "id": "resources",
+      "name": "Resources"
+    }
+  ],
+  "about": {
+    "name": "Lake Underhill Pines",
+    "title": "Homeowners Association",
+    "img": "/images/header.jpg",
+    "desc": "Important information and resources for residents.",
+    "markdown": "./articles/home.md",
+    "links": [
+      {
+        "id": "nextdoor",
+        "name": "Nextdoor",
+        "class": "fa fa-home",
+        "url": "https://nextdoor.com"
+      },
+      {
+        "id": "github",
+        "name": "Github",
+        "class": "fa fa-github",
+        "url": "https://github.com/KatherineWinter/lake-underhill-pines"
+      }
+    ]
+  },
+  "important": {
+
+  },
+  "boxes": [
+    {
+      "id": "hoa_meeting",
+      "name": "HOA board",
+      "img": "./images/hoa.jpg",
+      "markdown": "./articles/hoa_board.md",
+      "projects": [
+        "hoa_meeting_minutes"
+      ],
+      "tags": [
+        "hoa"
+      ]
+    },
+    {
+      "id": "newsletter",
+      "name": "Latest Community Newsletter",
+      "img": "./images/newsletter_apr_2019.png",
+      "markdown": "./articles/newsletter.md",
+      "projects": [
+        "contact"
+      ],
+      "tags": [
+        "general"
+      ]
+    },
+    {
+      "id": "hoa_meeting_minutes",
+      "name": "HOA meeting minutes",
+      "img": "./images/meeting_minutes.png",
+      "markdown": "./articles/hoa_meeting_minutes.md",
+      "projects": [
+        "hoa_meeting"
+      ],
+      "tags": [
+        "hoa"
+      ]
+    },
+    {
+      "id": "community_map",
+      "img": "./images/community_map.png",
+      "name": "Community map",
+      "markdown": "./docs/lk_underhill_pines_community_map.png",
+      "tags": [
+        "resources"
+      ]
+    },
+    {
+      "id": "bylaws",
+      "markdown": "./docs/lk_underhill_pines_hoa_bylaws.pdf",
+      "name": "HOA Bylaws",
+      "img": "./images/hoa_bylaws.png",
+      "tags": [
+        "hoa"
+      ],
+      "projects": [
+        "hoa_meeting",
+        "hoa_meeting_minutes",
+        "arc"
+      ]
+    },
+    {
+      "id": "arc",
+      "name": "Architectural Review Commitee Application",
+      "img": "./images/hoa_arc.png",
+      "markdown": "./docs/lk_underhill_pines_hoa_arc_form.pdf",
+      "tags": [
+        "hoa"
+      ],
+      "projects": [
+        "hoa_meeting",
+        "hoa_meeting_minutes",
+        "bylaws"
+      ]
+    },
+    {
+      "id": "garbage",
+      "img": "./images/hoa_solidwaste.png",
+      "markdown": "./docs/lk_underhill_pines_solidwaste.pdf",
+      "name": "Solid Waste Collection",
+      "tags": [
+        "resources"
+      ]
+    },
+    {
+      "id": "recycling",
+      "name": "Recycling Contamination Notice",
+      "img": "./images/hoa_recyclingnotice.png",
+      "markdown": "./docs/lk_underhill_pines_recycling.pdf",
+      "tags": [
+        "resources"
+      ]
+    }
+  ]
+}

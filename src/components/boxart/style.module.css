@@ -1,0 +1,30 @@
+.boxart {
+  width:  200px;
+  display: inline-block;
+  margin-left: 1%;
+}
+
+.boxart img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 1em;
+}
+
+.info {
+  letter-spacing: 1px;
+  padding: 15px 0;
+  margin: auto;
+  text-align: center;
+}
+
+@media (max-width:380px){
+  .boxart {
+    width:  100px;
+  }
+
+  .boxart img {
+    width: 100px;
+    height: 100px;
+  }
+}

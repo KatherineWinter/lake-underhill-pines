@@ -1,0 +1,79 @@
+.darkTheme {  
+  --app-background: #000;
+}
+
+.lightTheme {  
+  --app-background: #edf1f2;
+}
+
+.App {
+  display: flex;
+  font-family: Open Sans,sans-serif;
+  font-size: 1.5em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  background: var(--app-background);
+}
+
+.boxart-pane {
+  width: 100%;
+  display: inline-block;
+}
+
+.overlay {
+  filter: blur(1.5rem);
+  overflow: hidden;
+  position:fixed;
+}
+
+.icon {
+  text-decoration: none;
+  border-bottom: none;
+  position: relative;
+  color: #fff;
+  font-size: 2em;
+  margin-right: 15px;
+}
+
+.icon:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
+  font-size: 1em;
+
+}
+
+.icon:link,
+.icon:visited,
+.icon:hover,
+.icon:active {
+  color: #fff;
+}
+
+.icon > .label {
+  display: none;
+}
+
+.info {
+  margin: auto;
+  max-width: 700px;
+
+  .icon {
+    color: #000;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .App {
+    font-size: 1em;
+  }
+
+  .info {
+    margin-left: 1%;
+    margin-right: 1%;
+    max-width: initial;
+  }
+}
