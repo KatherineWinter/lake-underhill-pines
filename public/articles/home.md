@@ -20,7 +20,7 @@ Please send your request by postal mail address.
 | <i class="icon fa fa-envelope-o"></i> | 509 S. Chickasaw Trail #383 |
 | | Orlando, FL 32825 |
 |<i class="icon fa fa-share"></i> | [board@lakeunderhillpineshoa.com](board@lakeunderhillpineshoa.com) |
-|<i class="icon fa fa-share"></i> | [arc@lakeunderhillpineshoa.co](arc@lakeunderhillpineshoa.co) |
+|<i class="icon fa fa-share"></i> | [arc@lakeunderhillpineshoa.com](arc@lakeunderhillpineshoa.com) |
 
 | | |
 |--|--|
