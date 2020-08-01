@@ -5,9 +5,10 @@ The next scheduled annual HOA meeting will be held at:
 | | |
 |--|--|
 |<i class="icon fa fa-calendar"></i> | TBD |
-| | St. Stephen Presbyterian Church |
-| <i class="icon fa fa-map-marker"></i> | 8601 Lake Underhill Rd |
-| | Orlando, FL 32825 |
+
+| | |
+|--|--|
+| <i class="icon fa fa-map-marker"></i> | TBD |
 
 # Contact
 
@@ -19,6 +20,9 @@ Please send your request by postal mail address.
 | | Lake Underhill Pines Homeowners Association |
 | <i class="icon fa fa-envelope-o"></i> | 509 S. Chickasaw Trail #383 |
 | | Orlando, FL 32825 |
+
+| | |
+|--|--|
 |<i class="icon fa fa-share"></i> | [board@lakeunderhillpineshoa.com](board@lakeunderhillpineshoa.com) |
 |<i class="icon fa fa-share"></i> | [arc@lakeunderhillpineshoa.com](arc@lakeunderhillpineshoa.com) |
 

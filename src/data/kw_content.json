@@ -55,9 +55,7 @@
       "name": "Latest Community Newsletter",
       "img": "./images/newsletter_apr_2019.png",
       "markdown": "./articles/newsletter.md",
-      "projects": [
-        "contact"
-      ],
+      "projects": [],
       "tags": [
         "general"
       ]
