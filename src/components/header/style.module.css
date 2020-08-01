@@ -16,7 +16,7 @@
 }
 
 .contentWrapper {
-  background: linear-gradient(to left,transparent 0,rgba(0,0,0,.6) 45%,rgba(0,0,0,.7) 60%);
+  background: linear-gradient(to left,transparent 0,rgba(0,0,0,.1) 0%,rgba(0,0,0,.5) 48%);
   height: inherit;
   position: relative;
   width: 100%;
