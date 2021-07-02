@@ -1,3 +1,7 @@
+.lightTheme {  
+  --app-background: #edf1f2;
+}
+
 .informationPane {
   z-index: 970;
   visibility: visible;
@@ -7,7 +11,7 @@
   top: 0;
   right: 0;
   bottom: 0;
-  background: #1e262c;
+  background: var(--app-background);
   animation: originOgdSlideLeftIntoPlace .5s cubic-bezier(.3,.6,.31,.91);
   overflow-y: auto;
 }
@@ -18,10 +22,6 @@
   padding-top: 20px;
 }
 
-.contentWrapper {
-  background: linear-gradient(to top,transparent 0,rgba(0,0,0,.6) 40%,rgba(0,0,0,.7) 50%);
-}
-
 .projects {
   margin-top: 10px;
   display: flex;
@@ -29,7 +29,6 @@
 }
 
 .content {
-  color: #eaeaea;
   padding-left: 100px;
   padding-right: 100px;
   height: 100%;
@@ -233,10 +232,6 @@
   ol,
   li {
     text-align: left;
-  }
-  
-  p {
-    color: #a0a0a0;
   }
 }
 

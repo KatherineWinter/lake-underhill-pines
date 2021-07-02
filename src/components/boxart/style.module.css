@@ -2,6 +2,7 @@
   width:  200px;
   display: inline-block;
   margin-left: 1%;
+  cursor: pointer;
 }
 
 .boxart img {
@@ -9,6 +10,15 @@
   height: 200px;
   object-fit: cover;
   border-radius: 1em;
+  border: 2px #000 solid;
+}
+
+.boxart img:hover {
+  border: 2px blue solid;
+}
+
+.boxart img:hover {
+  border: 2px blue solid;
 }
 
 .info {
@@ -16,6 +26,7 @@
   padding: 15px 0;
   margin: auto;
   text-align: center;
+  color: blue;
 }
 
 @media (max-width:380px){

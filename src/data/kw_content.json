@@ -9,6 +9,10 @@
       "name": "Homeowners Association (HOA)"
     },
     {
+      "id": "arc",
+      "name": "Architectural Review Commitee (ARC)"
+    },
+    {
       "id": "resources",
       "name": "Resources"
     }
@@ -39,7 +43,7 @@
   },
   "boxes": [
     {
-      "id": "hoa_meeting",
+      "id": "hoa_board",
       "name": "HOA board",
       "img": "./images/hoa.jpg",
       "markdown": "./articles/hoa_board.md",
@@ -48,6 +52,19 @@
       ],
       "tags": [
         "hoa"
+      ]
+    },
+    {
+      "id": "arc_board",
+      "name": "ARC board",
+      "img": "./images/hoa.jpg",
+      "markdown": "./articles/arc_board.md",
+      "tags": [
+        "arc"
+      ],
+      "projects": [
+        "arc_board",
+        "bylaws"
       ]
     },
     {
@@ -97,15 +114,14 @@
     },
     {
       "id": "arc",
-      "name": "Architectural Review Commitee Application",
+      "name": "ARC Application",
       "img": "./images/hoa_arc.png",
       "markdown": "./docs/lk_underhill_pines_hoa_arc_form.pdf",
       "tags": [
-        "hoa"
+        "arc"
       ],
       "projects": [
-        "hoa_meeting",
-        "hoa_meeting_minutes",
+        "arc_board",
         "bylaws"
       ]
     },

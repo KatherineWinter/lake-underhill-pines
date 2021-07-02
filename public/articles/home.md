@@ -23,12 +23,8 @@ Please send your request by postal mail address.
 
 | | |
 |--|--|
-|<i class="icon fa fa-share"></i> | [board@lakeunderhillpineshoa.com](board@lakeunderhillpineshoa.com) |
-|<i class="icon fa fa-share"></i> | [arc@lakeunderhillpineshoa.com](arc@lakeunderhillpineshoa.com) |
-
-| | |
-|--|--|
-|<i class="icon fa fa-mobile"></i> | If you need to contact the HOA President, Jerry Allison, please text him with a brief summary at 407-222-3064 |
+|<i class="icon fa fa-share"></i> | [board@lakeunderhillpineshoa.com](mailto:board@lakeunderhillpineshoa.com) |
+|<i class="icon fa fa-share"></i> | [arc@lakeunderhillpineshoa.com](mailto:arc@lakeunderhillpineshoa.com) |
 
 ## Orange County Code Enforcement
 
